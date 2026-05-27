@@ -3,6 +3,7 @@
 # 설명
 
 학습데이터: chatbot_data.csv
+chatbot.py: 파이싼 코드
 
 # 사용법
 
